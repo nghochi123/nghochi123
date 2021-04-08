@@ -59,3 +59,5 @@
 ### Credits
 
 [AVS1508 for the template](https://github.com/AVS1508)
+
+Pls try to break my stuff so I can improve them.
