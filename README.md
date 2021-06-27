@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Will be studying Computer Science at Nanyang Technological University.
-- 💼 &nbsp; Not working currently, looking out for Software Engineering internship roles.
-- 🌱 &nbsp; Learning more about Cloud Architecture and Web Development.
+- 💼 &nbsp; Not working currently.
+- 🌱 &nbsp; Learning more about Cybersecurity and Web Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
