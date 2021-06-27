@@ -52,7 +52,7 @@
 <a href="https://nghochi.netlify.app/about"><img alt="Website" src="https://img.shields.io/badge/Website-https://nghochi.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ng-ho-chi-809a881b9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ng%20Ho%20Chi-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:nghochi123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nghochi123@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://nghochi-blog.netlify.app/"><img alt="Blog" src="https://img.shields.io/badge/Blog-333333?style=flat-square&logo=gitbook"></a>
+<a href="https://hochi-blog.netlify.app/"><img alt="Blog" src="https://img.shields.io/badge/Blog-333333?style=flat-square&logo=gitbook"></a>
 </p>
 
 
