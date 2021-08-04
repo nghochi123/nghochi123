@@ -3,9 +3,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Will be studying Computer Science at Nanyang Technological University.
+- 🎓 &nbsp; Year 1 Computer Science student at Nanyang Technological University.
 - 💼 &nbsp; Not working currently.
-- 🌱 &nbsp; Learning more about Cybersecurity and Web Development.
+- 🌱 &nbsp; Learning more about Cybersecurity, Web Development and Machine Learning.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
