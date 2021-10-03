@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Year 1 Computer Science student at Nanyang Technological University.
-- 💼 &nbsp; Not working currently.
 - 🌱 &nbsp; Learning more about Cybersecurity, Web Development and Machine Learning.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
