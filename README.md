@@ -37,6 +37,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nghochi123&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghochi123&theme=buefy&layout=compact" />
 </a>
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=nghochi123" width="400"/>
+</a>
 
 <br/>
 
