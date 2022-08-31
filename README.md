@@ -1,10 +1,10 @@
-<h2> Hi! I'm Ho Chi, hailing from Singapore. 🇸🇬 </h2>
+<h2> Hi! I'm Ho Chi, from Singapore. 🇸🇬 </h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Year 1 Computer Science student at Nanyang Technological University.
-- 🌱 &nbsp; Learning more about Cybersecurity, Web Development and Machine Learning.
+- 🎓 &nbsp; Year 2 Computer Science student at Nanyang Technological University.
+- 🌱 &nbsp; Learning more about Web Development, Machine Learning, Cybersecurity, and Blockchain.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -35,7 +35,7 @@
 
 <a href="https://github.com/nghochi123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nghochi123&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghochi123&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghochi123&theme=buefy&layout=compact&hide=jupyter%20notebook" />
 </a>
 <a href="https://github.com/KnlnKS/leetcode-stats">
   <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=nghochi123" width="456"/>
@@ -47,9 +47,8 @@
 
 <p align="center">
 <a href="https://nghochi.xyz"><img alt="Website" src="https://img.shields.io/badge/Website-https://nghochi.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ng-ho-chi-809a881b9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ng%20Ho%20Chi-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/nghochi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ng%20Ho%20Chi-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:nghochi123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nghochi123@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://blog.nghochi.xyz/"><img alt="Blog" src="https://img.shields.io/badge/Blog-333333?style=flat-square&logo=gitbook"></a>
 </p>
 
 
